@@ -1,0 +1,365 @@
+{
+  "@odata.context": "$metadata#Questions",
+  "value": [
+    {
+      "ID": "56194191-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "1404225b-e6d8-4801-932d-d9907a7c3000",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему не удаётся подключиться к SAP HANA через Node.js?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194192-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как включить трассировку запросов в SAP Gateway?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194193-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042271-c0e6-4824-a89b-b244f6b890d1",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему Web Dynpro приложение перестало работать после обновления?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194194-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042283-8141-4326-a678-433c62880383",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как использовать OAuth2 в OData сервисе SAP Gateway?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194195-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042294-596f-4ccb-b064-dc387045e3c5",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какая транзакция используется для настройки RFC-соединения?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194196-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042296-5e71-41c5-911b-19b21d3ab2e2",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему запрос в CDS View возвращает некорректные данные?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194197-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042297-c907-4bd9-9a14-ec2959b7246a",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какой инструмент использовать для тестирования производительности SAP Fiori?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194198-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042298-ef17-4828-809a-0fc3a271924d",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему в SAP BW данные не загружаются корректно?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "56194199-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "14042299-6496-49e5-a8b0-9c6043b1de13",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как найти зависимость между программами и таблицами в SAP?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "5619419a-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "1404229a-046c-4975-91b5-0dd77d3307d6",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие шаги предпринять для восстановления данных в SAP HANA?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941a5-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422a5-f3c7-40e3-8f23-0fc98c06c93b",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как включить версионирование объектов в SAP HANA?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941a6-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422a6-2c75-4b19-a3b3-47f8f3c2c67d",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему синхронизация данных в SLT занимает много времени?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941a7-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422a7-d1e2-46b6-91f7-10d2873d09c4",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие ограничения существуют для CDS Views в SAP HANA?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941a8-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422a8-3c1f-41d6-b9a3-5b6c7f9c8e83",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как настроить архивацию данных в SAP BW?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941a9-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422a9-13df-4421-b53f-782e91b68b5a",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему сценарий SAP BTP не выполняется в Cloud Foundry?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941aa-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422aa-e32c-469a-97e9-e8b6b3a973f1",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как устранить проблему с сертификатами в SAP Cloud Connector?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941ab-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422ab-9fc9-46c1-8005-c1b93e2d6726",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие инструменты доступны для мониторинга OData сервисов?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941ac-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422ac-40c3-4aef-92ed-f8b34d8ae712",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как отладить проблемы с интеграцией SAP CPI и сторонних API?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941ad-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422ad-3b21-4b7e-9632-d1b91c45c876",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему SAP Fiori приложение не отображается корректно в браузере?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941ae-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422ae-cb9d-4a3d-a9c4-e42f0b92a648",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие действия предпринять при сбое загрузки данных в SAP Data Hub?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+ {
+      "ID": "561941af-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422af-a1c3-44b2-b0c3-6f3b2c64a8d3",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как решить проблему с зависанием транзакций в SAP HANA?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b0-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b0-2d41-42f4-9a57-b12c3f735a3e",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие настройки нужно проверить для ускорения работы SAP Fiori Launchpad?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b1-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b1-f39b-44f3-9d8e-b19c32a8a9cd",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему OData сервис возвращает ошибку 403 при доступе?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b2-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b2-41e3-4b6c-9229-f3b2d9a9b5ce",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие шаги необходимо предпринять для обновления версии SAP NetWeaver?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b3-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b3-5f41-40d3-b8a9-6a8d3c7a4f3c",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как включить расширенную аналитику в SAP Analytics Cloud?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b4-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b4-e0f9-4d7b-882e-dc5b2f3a7d12",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему невозможно завершить экспорт данных из SAP BW в Excel?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b5-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b5-13d2-47fa-ae92-b1f3c7a3e8dc",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как оптимизировать работу RFC соединений в SAP HANA?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b6-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b6-c932-41b7-9f42-e8b4f3a9d612",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Какие существуют методы для загрузки больших объемов данных в SAP HANA?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b7-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b7-0f3c-4a3d-8d7e-6c1f3b8c4e32",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Почему транзакция SM37 показывает задания в состоянии HOLD?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "561941b8-8256-441d-a5ae-973eb63094af",
+      "answer_ID": "140422b8-2d1f-4f3e-9a2b-3e8f4d6a7c9b",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как настроить Alert Notification в SAP BTP для мониторинга ошибок?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+      "ID": "551941a7-8256-441d-a5ae-973eb63090af",
+      "answer_ID": "2979c7fd-fbec-4dc8-8f6c-4e519a94688c",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T07:31:41.401Z",
+      "modifiedBy": "anonymous",
+      "question": "Как правильно настроить SAP HANA CLOUD?",
+      "questionVector": "[0.0076359473, 0.014231782, ...]"
+    },
+    {
+            "ID": "56194193-8256-441d-a5ae-973eb63094af",
+            "answer_ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+            "createdAt": "2024-11-12T00:00:00.000Z",
+            "createdBy": "syrym_khamidullaev@qarmet.kz",
+            "modifiedAt": "2024-11-12T07:31:41.401Z",
+            "modifiedBy": "anonymous",
+            "question": "Как создать ОЗУ на погрузку и доставку готовой продукции размером 8-60мм?",
+            "questionVector": "[0.0076359473, 0.014231782, ...]"
+        },
+        {
+            "ID": "56194194-8256-441d-a5ae-973eb63094af",
+            "answer_ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+            "createdAt": "2024-11-12T00:00:00.000Z",
+            "createdBy": "syrym_khamidullaev@qarmet.kz",
+            "modifiedAt": "2024-11-12T07:31:41.401Z",
+            "modifiedBy": "anonymous",
+            "question": "Какие шаги нужны для создания ОЗУ на транспортировку продукции 8-60мм в системе SOP?",
+            "questionVector": "[0.0076359473, 0.014231782, ...]"
+        },
+        {
+            "ID": "56194195-8256-441d-a5ae-973eb63094af",
+            "answer_ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+            "createdAt": "2024-11-12T00:00:00.000Z",
+            "createdBy": "syrym_khamidullaev@qarmet.kz",
+            "modifiedAt": "2024-11-12T07:31:41.401Z",
+            "modifiedBy": "anonymous",
+            "question": "Как оформить ОЗУ для погрузки и перевозки продукции размером 8-60мм через SAP?",
+            "questionVector": "[0.0076359473, 0.014231782, ...]"
+        },
+        {
+            "ID": "56194196-8256-441d-a5ae-973eb63094af",
+            "answer_ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+            "createdAt": "2024-11-12T00:00:00.000Z",
+            "createdBy": "syrym_khamidullaev@qarmet.kz",
+            "modifiedAt": "2024-11-12T07:31:41.401Z",
+            "modifiedBy": "anonymous",
+            "question": "Что включить в ОЗУ для транспортировки готовой продукции с размерами 8-60мм?",
+            "questionVector": "[0.0076359473, 0.014231782, ...]"
+        },
+        {
+            "ID": "56194197-8256-441d-a5ae-973eb63094af",
+            "answer_ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+            "createdAt": "2024-11-12T00:00:00.000Z",
+            "createdBy": "syrym_khamidullaev@qarmet.kz",
+            "modifiedAt": "2024-11-12T07:31:41.401Z",
+            "modifiedBy": "anonymous",
+            "question": "Какие вопросы SOP могут помочь при создании ОЗУ для погрузки продукции размером 8-60мм?",
+            "questionVector": "[0.0076359473, 0.014231782, ...]"
+        }
+  ]
+}

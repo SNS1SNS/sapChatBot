@@ -1,0 +1,269 @@
+{
+  "@odata.context": "$metadata#Answers",
+  "value": [
+    {
+      "ID": "1404225b-e6d8-4801-932d-d9907a7c3000",
+      "answer": "Убедитесь, что вы используете SAP HANA Node.js Connector (hdb) и указали правильные параметры подключения.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+      "answer": "Используйте транзакцию /IWFND/TRACES, чтобы включить трассировку запросов в SAP Gateway.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "14042271-c0e6-4824-a89b-b244f6b890d1",
+      "answer": "Проверьте, установлены ли необходимые обновления Web Dynpro и настройки базы данных.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "14042283-8141-4326-a678-433c62880383",
+      "answer": "Настройте OAuth2 через SAP Gateway Configuration Guide, добавив OAuth-клиента.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "14042294-596f-4ccb-b064-dc387045e3c5",
+      "answer": "Используйте транзакцию SM59 для настройки RFC-соединений.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+
+    {
+      "ID": "14042296-5e71-41c5-911b-19b21d3ab2e2",
+      "answer": "Проверьте правильность SQL-запроса и убедитесь, что параметры CDS View настроены корректно.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "14042297-c907-4bd9-9a14-ec2959b7246a",
+      "answer": "Для тестирования производительности SAP Fiori рекомендуется использовать инструмент SAP LoadRunner.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "14042298-ef17-4828-809a-0fc3a271924d",
+      "answer": "Проверьте настройки загрузки данных в SAP BW и корректность источников данных.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "14042299-6496-49e5-a8b0-9c6043b1de13",
+      "answer": "Используйте транзакцию SE80 для анализа зависимостей между программами и таблицами.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404229a-046c-4975-91b5-0dd77d3307d6",
+      "answer": "Воспользуйтесь встроенными средствами SAP HANA Studio для восстановления резервной копии данных.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404229b-1b9b-4508-bd47-8f9f6c33e3d2",
+      "answer": "Настройте защищенные соединения с использованием SSL-сертификатов через SAP Secure Network Communication.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404229c-59d2-485f-b9d8-4d6cb3ed8f89",
+      "answer": "Проверьте настройки партнерского профиля IDoc и убедитесь, что все сегменты корректно заполнены.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404229d-ec55-453a-a5a6-4b59e3a3e3e9",
+      "answer": "Оптимизируйте выполнение SAP UI5, используя асинхронные запросы и минимизируя объем данных.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404229e-7cb3-450b-9b4f-899d9fa4e5b1",
+      "answer": "Настройте SAML2 в SAP HANA через транзакцию SAML2 и установите Identity Provider.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "1404229f-74e3-41db-9282-7ccf25cf60e1",
+      "answer": "Убедитесь, что настройки источников данных и структуры загрузки в SAP Data Services корректны.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+{
+      "ID": "140422af-a1c3-44b2-b0c3-6f3b2c64a8d3",
+      "answer": "Проверьте блокировки в транзакции SM12 и убедитесь, что параметры конфигурации SAP HANA соответствуют рекомендациям.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b0-2d41-42f4-9a57-b12c3f735a3e",
+      "answer": "Оптимизируйте настройки кэширования и проверьте производительность серверов SAP Fiori Launchpad.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b1-f39b-44f3-9d8e-b19c32a8a9cd",
+      "answer": "Проверьте права доступа пользователя и настройки авторизации в SAP Gateway.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b2-41e3-4b6c-9229-f3b2d9a9b5ce",
+      "answer": "Убедитесь, что вы загрузили последнюю версию Support Package Stack через Maintenance Planner.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b3-5f41-40d3-b8a9-6a8d3c7a4f3c",
+      "answer": "Включите расширенную аналитику в настройках модели данных SAP Analytics Cloud.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b4-e0f9-4d7b-882e-dc5b2f3a7d12",
+      "answer": "Убедитесь, что установлены все необходимые драйверы и включен плагин Excel Integration.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b5-13d2-47fa-ae92-b1f3c7a3e8dc",
+      "answer": "Оптимизируйте настройки таймаута в транзакции SM59 и проверьте сетевую задержку.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b6-c932-41b7-9f42-e8b4f3a9d612",
+      "answer": "Используйте инструменты SAP Data Services или SAP HANA Smart Data Integration для загрузки больших объемов данных.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b7-0f3c-4a3d-8d7e-6c1f3b8c4e32",
+      "answer": "Проверьте зависимости заданий и устраните блокировки в транзакции SM37.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b8-2d1f-4f3e-9a2b-3e8f4d6a7c9b",
+      "answer": "Настройте правила уведомлений и включите интеграцию с электронной почтой в SAP BTP.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"},
+{
+      "ID": "140422af-0d7c-4e7b-b6b5-3e9f7c4d1b3e",
+      "answer": "Ошибка MEMORY_NO_MORE_PAGING возникает из-за нехватки виртуальной памяти. Проверьте параметры профиля SAP и увеличьте размеры буферов.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b0-4a3c-4e9b-b2d1-7f3c6e5b9d4a",
+      "answer": "Убедитесь, что настройки соединения в SM59 корректны, и проверьте доступность целевой системы через Ping или Test Connection.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b1-cd2f-4a3e-8b5c-2e7d6c9f3a8d",
+      "answer": "Для настройки Job Scheduling в SAP BTP создайте расписание в Job Scheduler Service и настройте параметры задания.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b2-4b3f-4e2a-b9d7-8f3c1e6d4a7c",
+      "answer": "Проверьте права доступа пользователя и убедитесь, что сервис активирован в транзакции /IWFND/MAINT_SERVICE.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+      "ID": "140422b3-1a2e-4d5b-8f3c-2e6b9d7f4a5c",
+      "answer": "Включите Extended Application Logging через транзакцию /IWFND/APPS_LOG и настройте уровень логирования.",
+      "createdAt": "2024-11-12T00:00:00.000Z",
+      "createdBy": "syrym_khamidullaev@qarmet.kz",
+      "modifiedAt": "2024-11-12T00:00:00.000Z",
+      "modifiedBy": "anonymous"
+    },
+    {
+    "ID": "140422a7-d1e2-46b6-91f7-10d2873d09h0",
+    "createdAt": "2024-11-12T00:00:00.000Z",
+    "createdBy": "syrym_khamidullaev@qarmet.kz",
+    "modifiedAt": "2024-11-12T07:31:41.401Z",
+    "modifiedBy": "anonymous",
+    "answer": "https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/32afd67be8dc4e66890171e9924098f6.html?locale=ru-RU"
+},
+    {
+    "ID": "1404226d-fa00-4dcb-bc7c-a0a2ca61dcdf",
+    "createdAt": "2024-11-12T00:00:00.000Z",
+    "createdBy": "syrym_khamidullaev@qarmet.kz",
+    "modifiedAt": "2024-11-12T07:31:41.401Z",
+    "modifiedBy": "anonymous",
+    "answer": "Для получения дополнительной информации по созданию ОЗУ и вопросам SOP, пожалуйста, обратитесь к [документации SOP] [ссылка_SOP]."
+},
+    {
+    "ID": "49ff79e2-ce8f-4fad-8af5-2fe19ca1e349",
+    "createdAt": "2024-11-12T00:00:00.000Z",
+    "createdBy": "syrym_khamidullaev@qarmet.kz",
+    "modifiedAt": "2024-11-12T07:31:41.401Z",
+    "modifiedBy": "anonymous",
+    "answer": "Для получения дополнительной информации по созданию ОЗУ и вопросам SOP, пожалуйста, обратитесь к [документации SOP] [ссылка_SOP]."
+}
+  ]
+}

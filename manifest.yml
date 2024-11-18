@@ -1,0 +1,7 @@
+applications:
+- name: sap_support
+  memory: 1G
+  disk_quota: 1G
+  random-route: true
+  path: ./
+  command: python app.py
