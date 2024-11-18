@@ -1,6 +1,9 @@
 import requests
 import json
-from
+from sap.model.embedding import get_embedding
+from sap.algorithm.cosin import cosine_similarity_score
+
+
 sap_url = "https://ao-qarmet-q-1-techwins-rj5nyvl2-dev-sap-btp-tech-suppor4df0f4cd.cfapps.eu10-005.hana.ondemand.com/odata/v4/bot"
 
 # Получение всех вопросов
@@ -89,3 +92,11 @@ def find_similar_questions(new_question_text, threshold=0.7):
     else:
         return {"answer": "Нет вопросов, похожих на новый вопрос с заданным порогом."}
 
+def get_question_by_id(question_id):
+    url = f"{sap_url}/Questions({question_id})"
+    response = requests.get(url)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print("Ошибка при получении вопроса:", response.status_code, response.text)
+        return None
